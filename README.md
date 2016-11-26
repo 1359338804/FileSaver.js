@@ -17,6 +17,19 @@ sent to an external server.
 Looking for `canvas.toBlob()` for saving canvases? Check out
 [canvas-toBlob.js][2] for a cross-browser implementation.
 
+Installation
+------------------
+### npm
+```bash
+$ npm install filesaverjs
+```
+
+### bower
+```bash
+$ bower install filesaverjs
+```
+
+
 Supported browsers
 ------------------
 
@@ -132,11 +145,3 @@ npm run build
 ```
 
 Please make sure you build a production version before submitting a pull request.
-
-Installation
-------------------
-
-```bash
-npm install file-saver --save
-bower install file-saver
-```
