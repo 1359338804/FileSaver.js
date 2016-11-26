@@ -21,12 +21,12 @@ Installation
 ------------------
 ### npm
 ```bash
-$ npm install filesaverjs
+$ npm install file-saverjs
 ```
 
 ### bower
 ```bash
-$ bower install filesaverjs
+$ bower install file-saverjs
 ```
 
 

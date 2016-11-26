@@ -1,7 +1,7 @@
 {
-  "name": "filesaverjs",
+  "name": "file-saverjs",
   "main": "FileSaver.js",
-  "version": "1.0.0",
+  "version": "1.3.4",
   "homepage": "https://github.com/clarketm/FileSaver.js#readme",
   "authors": [
     "clarketm <travis.m.clarke@gmail.com>",
