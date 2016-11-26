@@ -1,4 +1,4 @@
-/*! FileSaver.js v1.0.0
+/*! FileSaver.js v1.3.5
  *
  * A saveAs() FileSaver implementation.
  *
@@ -177,7 +177,7 @@
                                     null;
 
         if (typeof define === "function" && define.amd) {
-            define("file-saver", [], function () {
+            define("file-saverjs", [], function () {
                 return saveAs;
             });
         }
